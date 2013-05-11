@@ -1,0 +1,104 @@
+.nortxt {
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+.wlink A:link { font-family: Tahoma; font-size: 10pt; ;COLOR: #FFFFFF;TEXT-DECORATION: none }
+.wlink  A:visited { font-family: Tahoma; font-size: 10pt; ;COLOR: #FFFFFF; TEXT-DECORATION: none } 
+.wlink  A:hover { font-family: Tahoma; font-size: 10pt;;COLOR: #FFED53; TEXT-DECORATION: none }
+
+.whline {
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding-left: 10px;
+}
+.detailtxt A:link { font-family: Tahoma; font-size: 10pt; COLOR: #333333; TEXT-DECORATION: none; }
+.detailtxt A:visited { font-family: Tahoma; font-size: 10pt;COLOR: #333333; TEXT-DECORATION: none; } 
+.detailtxt A:hover { font-family: Tahoma; font-size: 10pt;COLOR: #65bb00;TEXT-DECORATION: none; }
+
+.bkhline {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+.detlink A:link { font-family: Tahoma; font-size: 10pt; COLOR: #000066; line-height: 25px; TEXT-DECORATION: underline; }
+.detlink A:visited { font-family: Tahoma; font-size: 10pt;COLOR: #000066; line-height: 25px; TEXT-DECORATION: underline; } 
+.detlink A:hover { font-family: Tahoma; font-size: 10pt;COLOR: #65bb00;line-height: 25px; TEXT-DECORATION: none; }
+
+.vdolink A:link { font-family: Tahoma; font-size: 10pt; COLOR: #000066;TEXT-DECORATION: underline; }
+.vdolink A:visited { font-family: Tahoma; font-size: 10pt;COLOR: #000066;TEXT-DECORATION: underline; } 
+.vdolink  A:hover { font-family: Tahoma; font-size: 10pt;COLOR: #000000;TEXT-DECORATION: none; }
+	
+.bklink {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #000000;
+}
+.fline {  border: DEDEDD; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.greenhl {
+	font-family: Tahoma;
+	font-size: 11pt;
+	color: #333366;
+	font-weight: bold;
+}
+.stxt A:link { font-family: Tahoma; font-size: 10px; COLOR: #999999;TEXT-DECORATION: underline; }
+.stxt A:visited { font-family: Tahoma; font-size: 10px;COLOR: #999999;TEXT-DECORATION: underline; } 
+.stxt A:hover { font-family: Tahoma; font-size: 10px;COLOR: #000000;TEXT-DECORATION: none; }
+
+.introtxt A:link { font-family: Tahoma; font-size: 10pt; COLOR: #666666;TEXT-DECORATION: none; }
+.introtxt A:visited { font-family: Tahoma; font-size: 10pt;COLOR: #666666;TEXT-DECORATION: none; } 
+.introtxt A:hover { font-family: Tahoma; font-size: 10pt;COLOR: #000000;TEXT-DECORATION: none; }
+
+.grlink A:link { font-family: Tahoma; font-size: 11px;COLOR: #516168;TEXT-DECORATION: none }
+.grlink A:visited { font-family: Tahoma; font-size: 11px;COLOR: #516168; TEXT-DECORATION: none } 
+.grlink A:hover { font-family: Tahoma; font-size: 11px;COLOR: #FFFFFF; TEXT-DECORATION: none }
+
+.subhg  {
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #65bb00;
+	padding-top: 5px;
+}
+.time {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #FF0000;
+}
+
+.subhbk A:link { font-family: Tahoma; font-size: 10pt; COLOR: #666666; padding-top: 5px; TEXT-DECORATION: none; }
+.subhbk A:visited { font-family: Tahoma; font-size: 10pt;COLOR: #666666; padding-top: 5px; TEXT-DECORATION: none; } 
+.subhbk A:hover { font-family: Tahoma; font-size: 10pt;COLOR: #000000; padding-top: 5px; TEXT-DECORATION: none; }
+
+.bkheadnor {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.giheadnor {
+	font-family: Tahoma;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+}
+.redheadnor {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #D80000;
+}
+.grtxt {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #BBBBBB;
+}
+.today {
+	background-color: #F9F180;
+}
